@@ -37,7 +37,7 @@
 ## 使用語言
 + Java
 
-# 演算法
+# pass1 & pass2 演算法
 <img src="" width=200><img src="" width=200>
 
 # 成果
