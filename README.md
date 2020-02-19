@@ -30,7 +30,7 @@
 ## 步驟
 + 將opcode轉換成對應的機器語言，例：STL轉換成14
 + 把operand轉換成對應的機器位址，例：RETADR轉換成1033
-+ 依適當的格式，建立機器指令
++ 建立SYMTAB存放label名稱與位址
 + 將原始程式內的常數資料，轉換成機器內部的表示方式，例：EOF轉換成454F46
 + 產生object code和object program
 
