@@ -38,7 +38,8 @@
 + Java
 
 # pass1 & pass2 演算法
-<img src="" width=200><img src="" width=200>
+<img src="https://github.com/gigilin7/Assembler/blob/master/picture/pass1.jpg" height=500><img src="https://github.com/gigilin7/Assembler/blob/master/picture/pass2.jpg" height=500>
 
-# 成果
-<img src="" width=200><img src="" width=200>
+# 執行結果
+<img src="https://github.com/gigilin7/Assembler/blob/master/picture/object%20code.png" width=400>
+<img src="https://github.com/gigilin7/Assembler/blob/master/picture/object%20program.png" width=600>
